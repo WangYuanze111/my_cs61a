@@ -5,6 +5,6 @@
 
 lab00 lab01
 
-hw01
+hw01 hw02
 
 Hog
