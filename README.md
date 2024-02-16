@@ -3,7 +3,7 @@
 
 已更新内容：
 
-lab00 lab01 lab02 lab03 lab04
+lab00 lab01 lab02 lab03 lab04 lab05
 
 hw01 hw02 hw03
 
